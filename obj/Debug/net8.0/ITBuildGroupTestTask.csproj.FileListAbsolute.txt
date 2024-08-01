@@ -1,0 +1,15 @@
+C:\Users\binok\source\repos\ITBuildGroupTestTask\bin\Debug\net8.0\ITBuildGroupTestTask.exe
+C:\Users\binok\source\repos\ITBuildGroupTestTask\bin\Debug\net8.0\ITBuildGroupTestTask.deps.json
+C:\Users\binok\source\repos\ITBuildGroupTestTask\bin\Debug\net8.0\ITBuildGroupTestTask.runtimeconfig.json
+C:\Users\binok\source\repos\ITBuildGroupTestTask\bin\Debug\net8.0\ITBuildGroupTestTask.dll
+C:\Users\binok\source\repos\ITBuildGroupTestTask\bin\Debug\net8.0\ITBuildGroupTestTask.pdb
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.AssemblyInfoInputs.cache
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.AssemblyInfo.cs
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.csproj.CoreCompileInputs.cache
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.dll
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\refint\ITBuildGroupTestTask.dll
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.pdb
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.genruntimeconfig.cache
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ref\ITBuildGroupTestTask.dll
+C:\Users\binok\source\repos\ITBuildGroupTestTask\obj\Debug\net8.0\ITBuildGroupTestTask.sourcelink.json
